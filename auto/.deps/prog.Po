@@ -1,0 +1,5 @@
+prog.o: prog.c /usr/include/stdc-predef.h lib.h
+
+/usr/include/stdc-predef.h:
+
+lib.h:
